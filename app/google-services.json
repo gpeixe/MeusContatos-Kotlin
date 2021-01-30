@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "215917177234",
+    "firebase_url": "https://meus-contatos-50554-default-rtdb.firebaseio.com",
+    "project_id": "meus-contatos-50554",
+    "storage_bucket": "meus-contatos-50554.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215917177234:android:eaf67976f87233e139794b",
+        "android_client_info": {
+          "package_name": "com.example.contactslist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215917177234-cuil0ldvcj4tirht1i0l1tof36kvund9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcKC5arzsTVUDunYGyhPro2nv6yWiOo90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215917177234-cuil0ldvcj4tirht1i0l1tof36kvund9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
